@@ -1,0 +1,9 @@
+# pycharm 生成文件
+.idea/
+# 测试数据
+testing/
+# 模型和log文件
+tmp/
+images1/
+testImages/
+results/
